@@ -29609,7 +29609,7 @@ GameObject:
   - component: {fileID: 434118892}
   - component: {fileID: 434118891}
   m_Layer: 0
-  m_Name: Cylinder (2)
+  m_Name: knob3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31489,7 +31489,7 @@ GameObject:
   - component: {fileID: 599586050}
   - component: {fileID: 599586049}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: knob1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34410,7 +34410,7 @@ GameObject:
   - component: {fileID: 807351686}
   - component: {fileID: 807351685}
   m_Layer: 0
-  m_Name: Cylinder (3)
+  m_Name: knob2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35391,7 +35391,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &880122137
 Mesh:
@@ -51207,7 +51207,7 @@ GameObject:
   - component: {fileID: 1427790220}
   - component: {fileID: 1427790219}
   m_Layer: 0
-  m_Name: Cylinder (1)
+  m_Name: knob4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -52188,7 +52188,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1449479333
 GameObject:
